@@ -1,7 +1,0 @@
-# Cloudflare Pages / Workers config for PlayFlix
-# Build with: NITRO_PRESET=cloudflare-pages bun run build
-# Output dir: dist
-name = "playflix"
-compatibility_date = "2024-09-01"
-compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = "dist"
