@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /watchlist
+Disallow: /watch/
+
+Sitemap: https://playflix.ratul.fun/sitemap.xml
